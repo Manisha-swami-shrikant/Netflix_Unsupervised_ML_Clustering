@@ -11,18 +11,12 @@ This project focuses on clustering Netflix TV shows and movies using unsupervise
 
 ## Table of Contents
 - [Installation](#installation)
-
-- [Usage](#usage)
-- 
+-  [Usage](#usage)
 - [Project Structure](#project-structure)
-- 
 - [Contributing](#contributing)
-- 
 - [License](#license)
-- 
 - [Contact](#contact)
-
-## Installation
+- ## Installation
 To get started with this project, follow these steps:
 
 1. **Clone the repository:**
