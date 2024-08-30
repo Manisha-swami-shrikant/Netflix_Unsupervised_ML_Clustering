@@ -1,5 +1,6 @@
 # Netflix_Unsupervised_ML_Clustering
 ertainly! Here’s a complete README.md file tailored for your "Netflix TV Shows and Movies Clustering" project:
+![image](https://github.com/user-attachments/assets/1efa0030-7b38-4584-9424-4c6b9518eb30)
 
 markdown
 Copy code
